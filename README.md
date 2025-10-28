@@ -8,15 +8,6 @@ A professional, free prompt generator specifically designed for OpenAI Sora 2 an
 
 ---
 
-## 🎬 Demo Video
-
-<!-- Upload your demo video to the repository and replace the path below -->
-<!-- GitHub supports direct MP4 embedding via drag-and-drop in the editor -->
-
-https://github.com/shijincai/sora-prompt-generator/blob/main/en-34.mp4
-
-
----
 
 ## ✨ Key Features
 
